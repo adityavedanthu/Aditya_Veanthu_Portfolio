@@ -7,3 +7,4 @@ I contribute to design, simulation, and testing projects at AMRC, applying CAD/C
 - Linkedin: http://www.linkedin.com/in/adityavedanth
 - email: adityavedanth@gmail.com
 
+<img width="222" height="183" alt="dp" src="https://github.com/user-attachments/assets/abd9dde9-d15f-458e-9930-df3267d7f329" />
