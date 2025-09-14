@@ -11,10 +11,11 @@ I contribute to design, simulation, and testing projects at AMRC, specializing i
 ## **Quick Links**
 Click to explore more:
 
-- [Academic Projects](academic-projects.md)  
-- [Certification](certification.md)  
-- [YouTube Channel](youtube-channel.md)  
-- [Posts](posts.md)  
+- [Experience](experience.md)  
+- [Publications](publications.md)  
+- [Certifications](certifications.md)  
+- [Youtube Channel](youtube.md)
+- [Technical Content](technical.md)
 
 ---
 
