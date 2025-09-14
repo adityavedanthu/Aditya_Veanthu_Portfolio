@@ -7,4 +7,5 @@ I contribute to design, simulation, and testing projects at AMRC, applying CAD/C
 - Linkedin: http://www.linkedin.com/in/adityavedanth
 - email: adityavedanth@gmail.com
 
+## **------------------------------------------------------------------------------------------------------------**
 
