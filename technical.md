@@ -10,7 +10,7 @@ The Creaform HandySCAN BLACK Elite, a metrology-grade 3D scanning technology, is
 ## 2. Incremental Sheet Forming (ISF)
 <img width="162" height="223" alt="image" src="https://github.com/user-attachments/assets/5e4d5d40-637d-47ae-bc74-ff7b9f448b4f" />
 
-Check out this video showcasing the incremental sheet forming (ISF) process. ISF is a flexible, cost-effective, and energy-efficient method that involves deforming sheet metal incrementally using a simple tool directed along a predefined path generated from the CAD model of the product.
+Incremental sheet forming (ISF) process is a flexible, cost-effective, and energy-efficient method that involves deforming sheet metal incrementally using a simple tool directed along a predefined path generated from the CAD model of the product.
 
 ---
 
