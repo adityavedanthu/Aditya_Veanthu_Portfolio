@@ -1,7 +1,7 @@
 # YouTube Channel
+
 ## Beyond Now - Explaining What Matters
 [Visit Channel](http://www.youtube.com/@BeyondNowChannel)
-<img width="146" height="145" alt="image" src="https://github.com/user-attachments/assets/cc2d8f5e-ad58-4ad2-bb80-63709f09fd0e" />
 
 ---
 
@@ -10,4 +10,13 @@ Welcome to **Beyond Now**, a channel dedicated to exploring engineering through 
 
 **Big challenges. Smart solutions. Always looking beyond now.**
 
-<img width="386" height="253" alt="image" src="https://github.com/user-attachments/assets/749c7765-7066-4b48-89ea-3dfbcb26642c" />
+---
+
+### Featured Images
+
+<table>
+<tr>
+<td><img src="https://github.com/user-attachments/assets/cc2d8f5e-ad58-4ad2-bb80-63709f09fd0e" width="146" height="145" /></td>
+<td><img src="https://github.com/user-attachments/assets/749c7765-7066-4b48-89ea-3dfbcb26642c" width="386" height="253" /></td>
+</tr>
+</table>
