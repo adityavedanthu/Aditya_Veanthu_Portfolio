@@ -12,3 +12,12 @@ I work at the intersection of design, simulation, and testing at the AMRC, where
 
 2. Research Assistant - University of Glasgow - Jan 2022 - March 2022 - Glasgow, UK
 I work at the intersection of design, simulation, and testing at the AMRC, where I help develop innovative solutions for manufacturing challenges. My experience spans CAD, CAM, virtual machining, residual stress analysis, machining distortion predictions and control, 3D scanning, and experimental data collection
+
+## **Skill Set** 
+| CAD/CAM/FEA| Programming | Soft Skills |
+|----------|----------|----------|
+| Data 1   | Data 2   | Data 3   |
+| Data 4   | Data 5   | Data 6   |
+| Data 7   | Data 8   | Data 9   |
+| Data 10  | Data 11  | Data 12  |
+| Data 13  | Data 14  | Data 15  |
