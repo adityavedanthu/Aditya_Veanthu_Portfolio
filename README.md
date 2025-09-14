@@ -7,16 +7,13 @@ I contribute to design, simulation, and testing projects at AMRC, specializing i
 - **Email:** adityavedanth@gmail.com  
 
 ## **Experience**
-### **Project Engineer – Advanced Manufacturing Research Centre (AMRC)**
-*June 2023 – Present | Sheffield, UK*  
+1. Project Engineer - Advanced Manufacturing Research Centre (AMRC) - June 2023 - Present - Sheffield, UK
 I work at the intersection of design, simulation, and testing at the AMRC, where I help develop innovative solutions for manufacturing challenges. My experience spans CAD, CAM, virtual machining, residual stress analysis, machining distortion predictions and control, 3D scanning, and experimental data collection. 
 
-### **Research Assistant – University of Glasgow**
-*Jan 2022 – Mar 2022 | Glasgow, UK*  
+2. Research Assistant - University of Glasgow - Jan 2022 - March 2022 - Glasgow, UK
 I designed and integrated the innovative Pulse Elevator drilling system, a sustainable alternative to traditional augers, with superior adaptability for low or zero gravity environments, demonstrating its potential for aerospace and planetary exploration. This project involved rigorous testing and optimization of granular material management techniques.s.  
 
 ## **Skill Set**
-
 1. **CAD/CAM/FEA:** Siemens NX, SolidWorks, Fusion 360, Abaqus CAE, CGTech Vericut  
 2. **Programming & Simulation:** MATLAB, Simulink, Python, NI LabVIEW  
 
