@@ -21,7 +21,3 @@ Welcome to **Beyond Now**, a channel dedicated to exploring engineering through 
 </tr>
 </table>
 
-## Videos
-- Facing and Turning operation on a WFL M30 Millturn using CGTech VERICUT.
-The program demonstrates tool setup, work offset (G54), XZ plane selection (G18), constant surface speed (G96) with spindle speed limits, and step-by-step facing and turning passes. This simulation allows for toolpath validation, collision detection, and optimization of machining strategies before running the actual program on the machine.
-https://www.youtube.com/watch?v=gUOt2i77Bhs
