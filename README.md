@@ -14,10 +14,11 @@ I work at the intersection of design, simulation, and testing at the AMRC, where
 I work at the intersection of design, simulation, and testing at the AMRC, where I help develop innovative solutions for manufacturing challenges. My experience spans CAD, CAM, virtual machining, residual stress analysis, machining distortion predictions and control, 3D scanning, and experimental data collection
 
 ## **Skill Set** 
-| CAD/CAM/FEA| Programming |
-|----------|----------|
-| Siemens NX   | MATLAB   
-| Solidworks   | Simulink   
-| Fusion 360   | Python   
-| Abaqus CAE  | NI LabVIEW  
-| CG Tech Vericut  | 
+| **CAD/CAM/FEA**   | **Programming** |
+|-------------------|-----------------|
+| Siemens NX        | MATLAB          |
+| Solidworks        | Simulink        |
+| Fusion 360        | Python          |
+| Abaqus CAE        | NI LabVIEW      |
+| CG Tech Vericut   |                 |
+
