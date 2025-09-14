@@ -3,13 +3,3 @@ logo: assets/dp.png
 description: Aditya Vedanthu - Problem Solver and Innovator in Engineering
 theme: jekyll-theme-minimal
 
-# Navigation links
-nav:
-  - title: Academic Projects
-    url: /academic-projects/
-  - title: Certification
-    url: /certification/
-  - title: YouTube Channel
-    url: /youtube-channel/
-  - title: Posts
-    url: /posts/
