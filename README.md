@@ -6,17 +6,32 @@ I contribute to design, simulation, and testing projects at AMRC, specializing i
 - **LinkedIn:** [linkedin.com/in/adityavedanth](http://www.linkedin.com/in/adityavedanth)  
 - **Email:** adityavedanth@gmail.com  
 
-## **Experience**
-1. Project Engineer - Advanced Manufacturing Research Centre (AMRC) - June 2023 - Present - Sheffield, UK
-I work at the intersection of design, simulation, and testing at the AMRC, where I help develop innovative solutions for manufacturing challenges. My experience spans CAD, CAM, virtual machining, residual stress analysis, machining distortion predictions and control, 3D scanning, and experimental data collection. 
+---
 
-2. Research Assistant - University of Glasgow - Jan 2022 - March 2022 - Glasgow, UK
-I designed and integrated the innovative Pulse Elevator drilling system, a sustainable alternative to traditional augers, with superior adaptability for low or zero gravity environments, demonstrating its potential for aerospace and planetary exploration. This project involved rigorous testing and optimization of granular material management techniques.s.  
+## **Quick Links**
+Click to explore more:
+
+- [Academic Projects](academic-projects.md)  
+- [Certification](certification.md)  
+- [YouTube Channel](youtube-channel.md)  
+- [Posts](posts.md)  
+
+---
+
+## **Experience**
+1. **Project Engineer** - Advanced Manufacturing Research Centre (AMRC) - June 2023 - Present - Sheffield, UK  
+   I work at the intersection of design, simulation, and testing at the AMRC, helping develop innovative solutions for manufacturing challenges. My experience spans CAD, CAM, virtual machining, residual stress analysis, machining distortion predictions and control, 3D scanning, and experimental data collection. 
+
+2. **Research Assistant** - University of Glasgow - Jan 2022 - March 2022 - Glasgow, UK  
+   I designed and integrated the innovative Pulse Elevator drilling system, a sustainable alternative to traditional augers, with superior adaptability for low or zero gravity environments, demonstrating its potential for aerospace and planetary exploration. This project involved rigorous testing and optimization of granular material management techniques.  
+
+---
 
 ## **Skill Set**
-1. **CAD/CAM/FEA:** Siemens NX, SolidWorks, Fusion 360, Abaqus CAE, CGTech Vericut  
-2. **Programming & Simulation:** MATLAB, Simulink, Python, NI LabVIEW  
+- **CAD/CAM/FEA:** Siemens NX, SolidWorks, Fusion 360, Abaqus CAE, CGTech Vericut  
+- **Programming & Simulation:** MATLAB, Simulink, Python, NI LabVIEW  
 
+---
 
 ## **Publications**
 1. **The pulse-elevator: A pump for granular materials**  
@@ -29,4 +44,4 @@ I designed and integrated the innovative Pulse Elevator drilling system, a susta
 
 3. **Construction of human habitats on planetary/lunar surfaces without direct human involvement**  
    *International Astronautical Congress (IAC), 2018* – [Paper Link](https://dl.iafastro.directory/event/IAC-2018/paper/48021/)  
-   - Outlined a robotic swarm-based strategy to build underground lunar habitats using in-situ materials, addressing radiation, impact, and environmental challenges in space colonization.
+   - Outlined a robotic swarm-based strategy to build underground lunar habitats using in-situ materials, addressing radiation, impact, and environmental challenges in space colonization.  
