@@ -1,37 +1,27 @@
-# Aditya Vedanthu
+# **Aditya Vedanthu**
 
-## About Me
+## **About Me**
 I contribute to design, simulation, and testing projects at AMRC, specializing in CAD/CAM, virtual machining, residual stress analysis, machining distortion prediction, 3D scanning, and experimental data collection. With a proactive and results-driven mindset, I constantly seek opportunities to learn, grow, and tackle complex engineering challenges. My goal is to deliver innovative solutions that advance manufacturing and shape the future of the industry.
 
 - **LinkedIn:** [linkedin.com/in/adityavedanth](http://www.linkedin.com/in/adityavedanth)  
 - **Email:** adityavedanth@gmail.com  
 
----
-
-## Experience
-
-### Project Engineer – Advanced Manufacturing Research Centre (AMRC)
+## **Experience**
+### **Project Engineer – Advanced Manufacturing Research Centre (AMRC)**
 *June 2023 – Present | Sheffield, UK*  
-- Lead and support projects at the intersection of design, simulation, and testing.  
-- Apply CAD/CAM, virtual machining, residual stress analysis, machining distortion prediction and control, and 3D scanning.  
-- Conduct experimental data collection and develop solutions for advanced manufacturing challenges.  
+I work at the intersection of design, simulation, and testing at the AMRC, where I help develop innovative solutions for manufacturing challenges. My experience spans CAD, CAM, virtual machining, residual stress analysis, machining distortion predictions and control, 3D scanning, and experimental data collection. 
 
-### Research Assistant – University of Glasgow
+### **Research Assistant – University of Glasgow**
 *Jan 2022 – Mar 2022 | Glasgow, UK*  
-- Assisted research projects in advanced design and simulation.  
-- Applied CAD, CAM, and FEA tools to support experimental and analytical studies.  
+I designed and integrated the innovative Pulse Elevator drilling system, a sustainable alternative to traditional augers, with superior adaptability for low or zero gravity environments, demonstrating its potential for aerospace and planetary exploration. This project involved rigorous testing and optimization of granular material management techniques.s.  
 
----
-
-## Skill Set
+## **Skill Set**
 
 1. **CAD/CAM/FEA:** Siemens NX, SolidWorks, Fusion 360, Abaqus CAE, CGTech Vericut  
 2. **Programming & Simulation:** MATLAB, Simulink, Python, NI LabVIEW  
 
----
 
-## Publications
-
+## **Publications**
 1. **The pulse-elevator: A pump for granular materials**  
    *Acta Astronautica, 2022* – [DOI Link](https://doi.org/10.1016/j.actaastro.2022.07.052)  
    - Introduced a novel “pulse-elevator” mechanism for transporting granular materials, integrating vibro-conveyor and Tesla valve concepts. Validated through analytical, numerical, and experimental studies for space applications.  
