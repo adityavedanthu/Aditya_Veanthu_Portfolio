@@ -1,1 +1,21 @@
 
+# Academic Projects
+## 1. Leanspace - Space Hackathon
+Developed a unique satellite monitoring system using the Leanspace Cloud platform to address space debris. The system features notifications indicating the intensity of critical faults or failures.
+
+## 2. Deorbit and Solar Cycle
+*Master's Thesis*  
+Developed parallel gravity and atmospheric models to predict the lifetime and trajectory of Low Earth Orbit (LEO) satellites, considering solar and geomagnetic activity.  
+*Project Guide:* Dr. Patrick Harkness - University of Glasgow
+
+## 3. Path Planning for Planetary Rovers and Drones
+Developed path planning algorithms in MATLAB using fuzzy logic and neural networks to enhance autonomous rover and drone navigation.
+
+## 4. Fault Detection, Isolation & Recovery System for UAV Heading Motion
+Designed a system for fault detection, isolation, and recovery in UAV lateral dynamics, applicable to both open-loop and closed-loop configurations.
+
+## 5. Flight Control System Design for Restricted Motion Twin Rotor UAV
+*Master's Team Design Project*  
+Developed mathematical models representing elevation, pitch, and yaw motions of a twin UAV system. Implemented control algorithms with experimental validation.  
+*Team Members:* Abhijit Tom, Mohit Garg, Kethan Kode, Kavya Venkateshwaran
+
