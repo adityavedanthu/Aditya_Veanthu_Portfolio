@@ -16,5 +16,5 @@ Click to explore more:
 - [Publications](publications.md)  
 - [Certifications](certifications.md)  
 - [Youtube Channel](youtube.md)
-- [Posts](posts.md)
+- [Posts](technical.md)
 
