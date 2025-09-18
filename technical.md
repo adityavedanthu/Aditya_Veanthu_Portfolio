@@ -1,5 +1,13 @@
 # Posts
 
+-  ## Advanced Data Collection for Incremental Sheet Forming
+<img width="1144" height="747" alt="Screenshot 2025-09-18 171959" src="https://github.com/user-attachments/assets/f02cfd1c-7046-45c6-9c8c-0fc3d1926f02" />
+
+I had the opportunity to present Incremental Sheet Forming during our second Subtractive Manufacturing Showcase at the AMRC.
+I engaged with delegates to discuss the technology, supported by live demonstrations of the process. Additionally, I showcased our advanced data acquisition system, which enables real-time capture of machine tool and sensor data, seamlessly integrated into a custom MATLAB-based software developed in-house.
+
+---
+
 -  ## 3D Scanning with Creaform HandySCAN BLACK Elite
 <img width="296" height="237" alt="image" src="https://github.com/user-attachments/assets/343b6f0c-d6b1-43ef-8001-d1cac6618659" />
 
