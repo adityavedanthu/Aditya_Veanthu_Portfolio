@@ -1,4 +1,9 @@
 ## **Publications**
+- **The Effects of Rosette Tool Geometry on the Rotational Vibration-Assisted Incremental Sheet Forming Process**  
+   *Journal of Physics: Conference Series Volume 3104* – [DOI Link]([https://doi.org/10.1016/j.actaastro.2022.07.052](https://doi.org/10.1088/1742-6596/3104/1/012105))  
+   - Rotational Vibration-assisted Incremental Sheet Forming (RV-ISF) was studied on AA5251 alloy sheets to assess how tool geometry, rotational speed, and step size affect vibrations, forces, and heat generation. Results show that higher speeds reduce vibration amplitude and frictional heating, while finer steps increase vibration activity. The findings highlight how tool design and process optimization improve part quality in incremental sheet forming.
+  
+
 - **The pulse-elevator: A pump for granular materials**  
    *Acta Astronautica, 2022* – [DOI Link](https://doi.org/10.1016/j.actaastro.2022.07.052)  
    - Introduced a novel “pulse-elevator” mechanism for transporting granular materials, integrating vibro-conveyor and Tesla valve concepts. Validated through analytical, numerical, and experimental studies for space applications.  
