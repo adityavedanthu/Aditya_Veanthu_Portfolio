@@ -1,10 +1,8 @@
 # Posts
 
 -  ## Advanced Data Collection for Incremental Sheet Forming!
-  [WhatsApp Image 2025-09-19 at 11 41 03_57aa96b8](https://github.com/user-attachments/assets/024b5acb-3e69-4e96-8ac5-c35c9a29f980)
-
-
-  
+<img width="884" height="570" alt="Screenshot 2025-09-20 175442" src="https://github.com/user-attachments/assets/7903c9cf-215b-46a6-95b0-fea863f21855" />
+<img width="889" height="585" alt="Screenshot 2025-09-20 175426" src="https://github.com/user-attachments/assets/405539f0-e7bf-4f5f-ba5d-7f220b7ce0b0" />
 <img width="1144" height="747" alt="Screenshot 2025-09-18 171959" src="https://github.com/user-attachments/assets/f02cfd1c-7046-45c6-9c8c-0fc3d1926f02" />
 
 I had the opportunity to present Incremental Sheet Forming during our second Subtractive Manufacturing Showcase at the AMRC.
