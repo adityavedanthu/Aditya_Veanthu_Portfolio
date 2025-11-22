@@ -1,5 +1,5 @@
 ## **About Me**
-I contribute to design, simulation, and testing projects at AMRC, specializing in CAD/CAM, virtual machining, residual stress analysis, machining distortion prediction, 3D scanning, and experimental data collection. With a proactive and results-driven mindset, I constantly seek opportunities to learn, grow, and tackle complex engineering challenges. My goal is to deliver innovative solutions that advance manufacturing and shape the future of the industry.
+Detailed oriented engineer with hands on experience in digital machining simulation and process validation. Skilled in using CAD/CAM software and Vericut to develop models, toolpaths, and verify machining strategies that meets accuracy and reliability. Experienced in experimental and sensor setup, to facilitate experimental trials and sensor data collection/analysis along with assessing critical aspects such as part surface quality, geometrical accuracy, tool wear, and part distortion. 
 
 - **LinkedIn:** [linkedin.com/in/adityavedanth](http://www.linkedin.com/in/adityavedanth)  
 - **Email:** adityavedanth@gmail.com  
