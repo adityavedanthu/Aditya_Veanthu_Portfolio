@@ -1,5 +1,8 @@
 # Certifications
 ## Coursera Courses
+- **Introduction to AI**  
+  [Verify Certificate](https://coursera.org/share/880e3c1735e62d5d6d64eb6811079303)
+  
 - **Digital Manufacturing & Design**  
   [Verify Certificate](https://www.coursera.org/account/accomplishments/verify/PNMFQQZULCMN?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 
