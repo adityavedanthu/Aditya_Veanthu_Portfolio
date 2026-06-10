@@ -15,4 +15,5 @@ Click to explore more:
 - [Certifications](certifications.md)  
 - [Youtube Channel](youtube.md)
 - [Posts](technical.md)
+- [Engineering Insights](engineeringinsights.md)
 
